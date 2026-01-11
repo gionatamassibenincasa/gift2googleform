@@ -1,0 +1,12 @@
+{
+  "name": "gift2googleform",
+  "module": "gift2js.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "gift-pegjs": "^1.0.2"
+  }
+}
